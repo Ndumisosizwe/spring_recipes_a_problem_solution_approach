@@ -1,4 +1,4 @@
-package com.apress.springrecipes.springrecipes_2nd_edition;
+package com.apress.springrecipes;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
